@@ -1,0 +1,8 @@
+
+{
+  "name": "QuickMart Essentials",
+  "description": "A comprehensive local grocery and daily essentials store featuring product browsing, cart management, simulated checkout, and a robust admin dashboard for inventory and order management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
