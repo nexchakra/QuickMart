@@ -37,5 +37,4 @@ For collaboration or inquiries:
 
 ## 🌐 www.nexchakra.com
 
-## 📧 info@nexchakra
-.com
+## 📧 info@nexchakra.com
